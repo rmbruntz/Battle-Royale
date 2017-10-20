@@ -1,0 +1,2 @@
+# Battle-Royale
+Simulates a Battle Royale among up to 26 players. AI for the players is very simple but the game itself includes a randomly-generated map with somewhat realistic changes in elevation. Elevation and distance affect accuracy when one player attempts to shoot another. Leaderboard is printed at the end of the game along with the starting stats of each player. Currently, it is not possible to play vs. AI's.
