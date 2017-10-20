@@ -166,7 +166,7 @@ public class Map {
 	}
 	
 	public void endGame() {
-		System.out.println("Rank\tName\tKilled By\tTurn Killed");
+		System.out.println("Rank\tName\tKilled By\tTurn Killed\tClimb\tAccuracy");
 		System.out.println("1\t"+players.get(0).getName()+"\tNA\t\tNA");
 		int rank = 1;
 		while (!killed.isEmpty()) {
